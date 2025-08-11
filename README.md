@@ -1,2 +1,3 @@
 # vc-clone-05
-this is for clone directry
+this prectical is for clone directry
+Author:-param
